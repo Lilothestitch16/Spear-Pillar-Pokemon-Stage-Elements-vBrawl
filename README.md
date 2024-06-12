@@ -1,4 +1,4 @@
-This contains Pokémon models from Pokémon Sword & Shield, Pokémon Brilliant Diamond & Shining Pearl & Pokémon HOME and textures from Pokémon HOME. They need to be animated for the Spear Pillar Stage for Super Smash Bros. Brawl. These are the Pokémon included.
+This contains Pokémon models from Pokémon Battle Revolution. They need to be animated for the Spear Pillar Stage for Super Smash Bros. Brawl. These are the Pokémon included.
 
 0480 - Uxie
 
